@@ -47,10 +47,8 @@ body {
         position: absolute;
         top:230px;
         left:800px;
-        border-radius:50%;
         text-align:center;
         justify-content: center;
-        box-shadow:80%;
     }
 
     .animacja1{
